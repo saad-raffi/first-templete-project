@@ -100,7 +100,11 @@ html{
     /* position: relative; */
     font-size: 1.6rem;
     
+    
 
+}
+.service{
+    font-weight: bold;
 }
 img{
     height: 5rem;
